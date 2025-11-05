@@ -21,7 +21,7 @@ Through interactive elements reflecting the exhibition concept, the project aims
 This project was completed independently through all stages: planning, design, development, and deployment.
 
 * **Role:** Planning, Design, Development, Deployment 100%
-* **Contact:** yonnakim@proton.me
+* **Contact:** [https://www.linkedin.com/in/juyeonkimyonna/]
 <br>
 
 ---
@@ -48,5 +48,5 @@ This project was completed independently through all stages: planning, design, d
 본 프로젝트는 기획부터 디자인, 개발, 배포까지 전 과정을 직접 진행했습니다.
 
 * **역할:** 기획, 디자인, 개발, 배포 100%
-* **연락처:** yonnakim@proton.me
+* **연락처:** [https://www.linkedin.com/in/juyeonkimyonna/]
 <br>
